@@ -7,8 +7,8 @@
 
 • Basic Algorithms 
 
-#• Cost Sensitive Algorithms
+• Cost Sensitive Algorithms
 
 • Data Sampling Algorithms 
 
-#•	Choose the final model 
+•	Choose the final model 
